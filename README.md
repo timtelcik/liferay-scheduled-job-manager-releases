@@ -1,0 +1,1 @@
+# liferay-scheduled-job-manager-releases
